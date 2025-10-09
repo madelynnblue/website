@@ -7,4 +7,4 @@ date: 2023-03-20
 
 It is notable because it compiles to WASM and runs fully in the browser as a static site.
 
-Code and binary releases are [available](https://github.com/maddyblue/mzfmt).
+Code and binary releases are [available](https://github.com/madelynnblue/mzfmt).

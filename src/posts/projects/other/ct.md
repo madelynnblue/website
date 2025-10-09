@@ -7,4 +7,4 @@ date: 2019-07-01
 It also shows what you could make if you had more ingredients.
 Mostly I use this now as a way to remember cocktails I liked and want to make myself.
 
-[github](https://github.com/maddyblue/ct)
+[github](https://github.com/madelynnblue/ct)
