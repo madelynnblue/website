@@ -13,6 +13,7 @@
         --color-link: hsl(210, 66%, 52%);
         --color-link-focus: hsl(210, 66%, 47%);
         --color-background: hsl(0, 0%, 10%);
+        --color-background-pre: hsl(0, 0%, 15%);
         --color-gray-1: hsl(0, 0%, 85%);
       }
       @media (prefers-color-scheme: light) {
@@ -22,6 +23,7 @@
           --color-link: hsl(210, 66%, 47%);
           --color-link-focus: hsl(210, 66%, 52%);
           --color-background: hsl(0, 0%, 100%);
+          --color-background-pre: hsl(0, 0%, 95%);
           --color-gray-1: hsl(0, 0%, 15%);
         }
       }
@@ -54,6 +56,10 @@
       }
       footer {
         margin-top: 2rem;
+      }
+      pre {
+        padding: 0.5rem;
+        background-color: var(--color-background-pre);
       }
     </style>
     <title>{{ title }}</title>
