@@ -66,11 +66,11 @@ The statement here is adding a computed column to an existing table. The value o
 
 So far SQLsmith has found over 40 panics, data races, and other bugs in CockroachDB, in the three months since it’s been running:
 
-12 missing edge case checks (a specific kind of logic error where a certain case wasn’t handled)
-9 other kinds of logic errors
-9 type propagation errors (like an untyped NULL)
-2 data races
-5 others (like incorrect text marshaling)
+- 12 missing edge case checks (a specific kind of logic error where a certain case wasn’t handled)
+- 9 other kinds of logic errors
+- 9 type propagation errors (like an untyped NULL)
+- 2 data races
+- 5 others (like incorrect text marshaling)
 
 We have had some internal discussions trying to figure out if SQLsmith is just finding a bunch of long tail bugs that have little business value (i.e., the cost of fixing is higher than the loss of income from leaving the bug there) that would essentially be a time loss for us. Looking at the kinds of bugs it is producing, however, I do not think that these bugs are just long tail rarities that never occur in customer workloads. The [original Csmith](https://www.cs.utah.edu/~regehr/papers/pldi11-preprint.pdf) paper, whose ideas influenced the creation of the original SQLsmith, says this about the C compiler bugs they found:
 
