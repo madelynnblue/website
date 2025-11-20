@@ -3,8 +3,6 @@ title: "apd: An Arbitrary-Precision Decimal Package for Go"
 date: 2017-03-15
 ---
 
-_(Also published on the [Cockroach Labs Blog](https://www.cockroachlabs.com/blog/apd-arbitrary-precision-decimal-package/).)_
-
 With the release of CockroachDB [beta-20170223](https://www.cockroachlabs.com/docs/beta-20170223.html), we’d like to announce a new [arbitrary-precision decimal package for Go: apd](https://github.com/cockroachdb/apd). This package replaces the underlying implementation of the `DECIMAL` type in CockroachDB and is available for anyone to fork and use. Here we will describe why we made apd, some of its features, and how it improved CockroachDB.
 
 ## Background on Decimals
@@ -86,7 +84,6 @@ Output:
 
 apd can detect or error on overflow and underflow conditions. We can define a context that has an exponent limit then perform operations with it until an overflow condition occurs.
 
-
 For example:
 
 ```
@@ -107,7 +104,6 @@ for {
 ```
 
 Output:
-
 
 ```
 d:  998, overflow: false, err: <nil>
@@ -136,8 +132,8 @@ for {
     }
 }
 ```
-Output:
 
+Output:
 
 ```
 d:       9, inexact: false, err: <nil>
@@ -168,22 +164,12 @@ fmt.Printf("%s, err: %v\n", d, ed.Err())
 
 Output:
 
-
 ```
 10, err: <nil>
 30, err: <nil>
 30, err: division by zero
 30, err: division by zero
 ```
-
-### TODO
-
-apd does not yet support:
-
-- [NaN](https://en.wikipedia.org/wiki/NaN)
-- Infinity
-
-These are planned for some time in the future.
 
 ## apd and Decimals in CockroachDB
 
