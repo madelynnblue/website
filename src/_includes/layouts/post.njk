@@ -6,6 +6,8 @@ permalink: "/{{page.fileSlug}}/"
 
 <div>
   <h2>{{title}}</h2>
+  <h4>{{date | htmlDateString}}</h4>
+
   {{ content | safe }}
 
   {% if chiptune %}
