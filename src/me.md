@@ -1,6 +1,6 @@
 ---
-title: "Madelynn Blue"
-layout: layouts/post.njk
+title: "Me"
+layout: layouts/simple.njk
 ---
 
 Dev at [Temporal](https://temporal.io/).
