@@ -26,7 +26,7 @@ What I'm doing [now](https://nownownow.com/about).
 - [99% Invisible](https://99percentinvisible.org/) the unnoticed architecture and design that shape our world
 - [Signal Hill](https://www.signalhill.fm/) audio documentaries of all kinds
 
-# finished reading
+## finished reading
 
 (That I liked.)
 
