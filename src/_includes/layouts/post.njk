@@ -5,10 +5,15 @@ permalink: "/{{page.fileSlug}}/"
 ---
 
 <div>
-  <h2>{{title}}</h2>
-  <h4>{{date | htmlDateString}}</h4>
+  <div class="post-header">
+    <div class="post-meta">
+      <span>{{date | htmlDateString}}</span>
+    </div>
+  </div>
 
-  {{ content | safe }}
+  <div class="post-content">
+    {{ content | safe }}
+  </div>
 
   {% if chiptune %}
     <p>
@@ -31,9 +36,9 @@ permalink: "/{{page.fileSlug}}/"
 
   {% if lilypond %}
     <div>
-      <a href="https://maddyblue.github.io/lilypond/{{ lilypond }}.pdf">[pdf]</a>
+      <a href="https://madelynnblue.github.io/lilypond/{{ lilypond }}.pdf">[pdf]</a>
       <a href="https://github.com/madelynnblue/lilypond/blob/main/{{ lilypond }}.ly">[lilypond source]</a>
     </div>
-    <embed src="https://maddyblue.github.io/lilypond/{{ lilypond }}.pdf" width="100%" height="680" type="application/pdf">
+    <embed src="https://madelynnblue.github.io/lilypond/{{ lilypond }}.pdf" width="100%" height="680" type="application/pdf">
   {% endif %}
 </div>

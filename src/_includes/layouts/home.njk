@@ -4,37 +4,32 @@ templateClass: tmpl-home
 ---
 
 <div class="wrapper home">
-  <h2>{{title}}</h2>
   <div class="content">
-    {{ content | safe }}
-
-    {%- for section_name, subsection in collections.sections -%}
+    {{ content | safe }} {%- for section_name, subsection in
+    collections.sections -%}
+    <div>
+      <h2>{{ section_name }}</h2>
+      {%- for subsection_name, articles in subsection -%}
       <div>
-        <h3>{{ section_name }}</h3>
-        {%- for subsection_name, articles in subsection -%}
-          <div>
-            <i>{{ subsection_name }}</i>
-            <ul>
-            {%- for item in articles -%}
-              <li><a href="{{ item.url }}">{{ item.data.article }}</a></li>
-            {%- endfor -%}
-            </ul>
-          </div>
-        {%- endfor -%}
+        <h4>{{ subsection_name }}</h4>
+        <ul>
+          {%- for item in articles -%}
+          <li><a href="{{ item.url }}">{{ item.data.article }}</a></li>
+          {%- endfor -%}
+        </ul>
       </div>
+      {%- endfor -%}
+    </div>
     {%- endfor -%}
-    
+
     <ul style="list-style: none; padding: 0; margin: 0">
       {%- for post in collections.posts -%}
-        <li>
-          {{ post.data.page.date | htmlDateString }}
-          <a href="{{ post.url }}">{{ post.data.title }}</a>
-        </li>
+      <li>
+        {{ post.data.page.date | htmlDateString }}
+        <a href="{{ post.url }}">{{ post.data.title }}</a>
+      </li>
       {%- endfor -%}
     </ul>
   </div>
 </div>
-
-<div style="display: hidden">
-  <a rel="me" href="https://hachyderm.io/@maddyblue" style="display: none">mastodon</a>
 </div>

@@ -10,6 +10,7 @@ Previously:
 [Stack Overflow](https://stackoverflow.com/),
 [CoreOS](https://coreos.com/).
 
-* [blue.mlynn@gmail.com](mailto:blue.mlynn@gmail.com)
-* [github](https://github.com/madelynnblue/)
-* [resume](/public/resume.pdf)
+- [bluesky](https://bsky.app/profile/madelynn.blue)
+- [blue.mlynn@gmail.com](mailto:blue.mlynn@gmail.com)
+- [github](https://github.com/madelynnblue/)
+- [resume](/public/resume.pdf)

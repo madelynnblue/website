@@ -7,12 +7,17 @@ What I'm doing [now](https://nownownow.com/about).
 
 - playing roller derby with [Boulder County Roller Derby](https://bouldercountyrollerderby.com/)
 - reffing roller derby with the [local](https://www.denverrollerderby.org/) [leagues](https://www.rockymountainrollerderby.org/)
-- noodling around on the [organ](/noorlander) when it strikes me
-- getting surgeries and recovering from them for the first half of 2026
+- noodling around on the [organ](/noorlander) and piano when it strikes me; currently:
+  - [Duruflé - Prélude - Suite Op.5](https://youtu.be/T2Ycf0taCpo)
+  - [Duruflé - Prélude et Fugue sur le nom d'Alain](https://youtu.be/FJpG1Qyv6e8)
+  - [Bach - BWV 552 - Prelude in E-flat major](https://youtu.be/uHX3DajzsE8?t=7)
+  - [Alain - Litanies](https://youtu.be/UqRIRMNNfkE)
+  - [John Adams - Phrygian Gates](https://youtu.be/DixKnE9HqIU)
+- surgery and recovery for the first half of 2026
 
-## reading
+## reading and planned
 
-- many things from [The Transfeminine Review](https://thetransfemininereview.com/2025/12/31/the-2025-tfr-readers-choice-awards/)
+- many things from [The Transfeminine Review](https://thetransfemininereview.com/2025/12/31/the-2025-tfr-readers-choice-awards/):
   - [Trans/Rad/Fem](https://thetransfemininereview.com/2025/12/31/the-2025-tfr-readers-choice-awards/#best-transfeminine-nonfiction-trans-rad-fem-by-talia-bhatt)
   - [Geraldine](https://thetransfemininereview.com/2025/12/31/the-2025-tfr-readers-choice-awards/#outstanding-historical-fiction-geraldine-by-andrea-thompson)
 - [The Sisters of Dorley](https://alysongreaves.com/the-sisters-of-dorley/)
@@ -28,7 +33,7 @@ What I'm doing [now](https://nownownow.com/about).
 
 ## finished reading
 
-(That I liked.)
+(that I liked)
 
 - [Revolting Prostitutes: The Fight for Sex Workers’ Rights](https://www.versobooks.com/products/548-revolting-prostitutes) sex worker authors document how the law harms sex workers
 - [Stag Dance](https://thetransfemininereview.com/start-here/#stag-dance-2025-torrey-peters) transfemme stories; skewers you in the gender dysphoria
