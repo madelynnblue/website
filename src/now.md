@@ -19,9 +19,8 @@ What I'm doing [now](https://nownownow.com/about).
 
 - many things from [The Transfeminine Review](https://thetransfemininereview.com/2025/12/31/the-2025-tfr-readers-choice-awards/):
   - [Trans/Rad/Fem](https://thetransfemininereview.com/2025/12/31/the-2025-tfr-readers-choice-awards/#best-transfeminine-nonfiction-trans-rad-fem-by-talia-bhatt)
-  - [Geraldine](https://thetransfemininereview.com/2025/12/31/the-2025-tfr-readers-choice-awards/#outstanding-historical-fiction-geraldine-by-andrea-thompson)
+  - [Authority: Essays](https://thetransfemininereview.com/2025/12/31/the-2025-tfr-readers-choice-awards/#outstanding-general-nonfiction-authority-essays-on-being-right-by-andrea-long-chu)
 - [The Sisters of Dorley](https://alysongreaves.com/the-sisters-of-dorley/)
-- [Girlfriends](https://thetransfemininereview.com/start-here/#girlfriends-2023-emily-zhou)
 
 ## podcasts
 
