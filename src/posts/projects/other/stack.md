@@ -1,6 +1,6 @@
 ---
 title: "Go Stack Track Extractor"
-date: 2019-07-01
+date: 2026-02-23
 ---
 
 [stackfinder](https://stack.madelynn.blue/) is a stack trace extractor for Go.
