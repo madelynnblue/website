@@ -1,5 +1,5 @@
 ---
-title: "acre"
+title: "acre: LSP client for the acme editor"
 date: 2020-04-11
 ---
 
