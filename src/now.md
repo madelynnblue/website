@@ -19,7 +19,7 @@ What I'm doing [now](https://nownownow.com/about).
 
 - many things from [The Transfeminine Review](https://thetransfemininereview.com/2025/12/31/the-2025-tfr-readers-choice-awards/):
   - [Trans/Rad/Fem](https://thetransfemininereview.com/2025/12/31/the-2025-tfr-readers-choice-awards/#best-transfeminine-nonfiction-trans-rad-fem-by-talia-bhatt)
-  - [Authority: Essays](https://thetransfemininereview.com/2025/12/31/the-2025-tfr-readers-choice-awards/#outstanding-general-nonfiction-authority-essays-on-being-right-by-andrea-long-chu)
+- [Cleavage](https://jenniferboylan.net/writing/books/)
 - [The Sisters of Dorley](https://alysongreaves.com/the-sisters-of-dorley/)
 
 ## podcasts
@@ -34,6 +34,9 @@ What I'm doing [now](https://nownownow.com/about).
 
 (that I liked)
 
+- [Detransition, Baby](https://www.torreypeters.com/book/detransition-baby/)
+- [Mad Honey](https://jenniferboylan.net/writing/books/)
+- [Authority: Essays](https://thetransfemininereview.com/2025/12/31/the-2025-tfr-readers-choice-awards/#outstanding-general-nonfiction-authority-essays-on-being-right-by-andrea-long-chu)
 - [Revolting Prostitutes: The Fight for Sex Workers’ Rights](https://www.versobooks.com/products/548-revolting-prostitutes) sex worker authors document how the law harms sex workers
 - [Stag Dance](https://thetransfemininereview.com/start-here/#stag-dance-2025-torrey-peters) transfemme stories; skewers you in the gender dysphoria
 - [Fierce Femmes and Notorious Liars](https://thetransfemininereview.com/start-here/#fierce-femmes-and-notorious-liars-2017-kai-cheng-thom) fantastical femme gang
