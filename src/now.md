@@ -7,19 +7,18 @@ What I'm doing [now](https://nownownow.com/about).
 
 - playing roller derby with [Boulder County Roller Derby](https://bouldercountyrollerderby.com/)
 - reffing roller derby with the [local](https://www.denverrollerderby.org/) [leagues](https://www.rockymountainrollerderby.org/)
+- working on an app that can subscribe to web pages/pdfs/blogs, and convert them to a personal podcast
 - noodling around on the [organ](/noorlander) and piano when it strikes me; currently:
   - [Duruflé - Prélude - Suite Op.5](https://youtu.be/T2Ycf0taCpo)
   - [Duruflé - Prélude et Fugue sur le nom d'Alain](https://youtu.be/FJpG1Qyv6e8)
   - [Bach - BWV 552 - Prelude in E-flat major](https://youtu.be/uHX3DajzsE8?t=7)
   - [Alain - Litanies](https://youtu.be/UqRIRMNNfkE)
   - [John Adams - Phrygian Gates](https://youtu.be/DixKnE9HqIU)
-- surgery and recovery for the first half of 2026
 
 ## reading and planned
 
 - many things from [The Transfeminine Review](https://thetransfemininereview.com/2025/12/31/the-2025-tfr-readers-choice-awards/):
   - [Trans/Rad/Fem](https://thetransfemininereview.com/2025/12/31/the-2025-tfr-readers-choice-awards/#best-transfeminine-nonfiction-trans-rad-fem-by-talia-bhatt)
-- [Cleavage](https://jenniferboylan.net/writing/books/)
 - [The Sisters of Dorley](https://alysongreaves.com/the-sisters-of-dorley/)
 
 ## podcasts
@@ -34,6 +33,7 @@ What I'm doing [now](https://nownownow.com/about).
 
 (that I liked)
 
+- [Cleavage](https://jenniferboylan.net/writing/books/)
 - [Detransition, Baby](https://www.torreypeters.com/book/detransition-baby/)
 - [Mad Honey](https://jenniferboylan.net/writing/books/)
 - [Authority: Essays](https://thetransfemininereview.com/2025/12/31/the-2025-tfr-readers-choice-awards/#outstanding-general-nonfiction-authority-essays-on-being-right-by-andrea-long-chu)
