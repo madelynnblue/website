@@ -20,8 +20,26 @@
         --border: #d4d4d4;
         --accent: #ff6b35;
         --code-bg: #f5f5f5;
+        --muted: #888;
+        --quote: #666;
+        --link-hover-bg: #ffe8e0;
         --mono: "IBM Plex Mono", "Courier New", monospace;
         --serif: "Crimson Pro", "Georgia", serif;
+      }
+
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --bg: #1a1a18;
+          --text: #e8e8e6;
+          --link: #7ab3ff;
+          --link-visited: #c084fc;
+          --border: #3a3a3a;
+          --accent: #ff6b35;
+          --code-bg: #252523;
+          --muted: #999;
+          --quote: #aaa;
+          --link-hover-bg: #2d1a0e;
+        }
       }
 
       * {
@@ -72,7 +90,7 @@
       .post-meta {
         font-family: var(--mono);
         font-size: 14px;
-        color: #888;
+        color: var(--muted);
         display: flex;
         gap: 16px;
         flex-wrap: wrap;
@@ -119,7 +137,7 @@
       }
 
       .post-content a:hover {
-        background: #ffe8e0;
+        background: var(--link-hover-bg);
         border-bottom-color: var(--accent);
         color: var(--accent);
       }
@@ -163,7 +181,7 @@
         border-left: 3px solid var(--border);
         padding-left: 20px;
         margin: 24px 0;
-        color: #666;
+        color: var(--quote);
         font-style: italic;
       }
 
@@ -204,12 +222,12 @@
         border-top: 2px solid var(--border);
         font-family: var(--mono);
         font-size: 13px;
-        color: #888;
+        color: var(--muted);
         text-align: center;
       }
 
       footer a {
-        color: #888;
+        color: var(--muted);
         margin: 0 8px;
       }
 
@@ -231,7 +249,7 @@
         border-left: 3px solid var(--border);
         padding-left: 20px;
         margin: 20px 0;
-        color: #666;
+        color: var(--quote);
         font-style: italic;
       }
 
@@ -290,7 +308,7 @@
       }
 
       main a:hover {
-        background: #ffe8e0;
+        background: var(--link-hover-bg);
         border-bottom-color: var(--accent);
       }
     </style>
