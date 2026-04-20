@@ -22,6 +22,12 @@ module.exports = function (eleventyConfig) {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("yyyy-LL-dd");
   });
 
+  eleventyConfig.addFilter("limit", (arr, n) => (arr || []).slice(0, n));
+
+  eleventyConfig.addCollection("posts", function (collection) {
+    return collection.getFilteredByGlob("src/posts/**/*.md");
+  });
+
   eleventyConfig.addCollection("sections", function (collection) {
     const sections = new Map();
     collection.getAll().forEach((item) => {
