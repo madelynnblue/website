@@ -7,7 +7,7 @@ What I'm doing [now](https://nownownow.com/about).
 
 - playing roller derby with [Boulder County Roller Derby](https://bouldercountyrollerderby.com/)
 - reffing roller derby with the [local](https://www.denverrollerderby.org/) [leagues](https://www.rockymountainrollerderby.org/)
-- working on an app that can subscribe to web pages/pdfs/blogs, and convert them to a personal podcast
+- working on [an app](/blog-to-podcast/) that can subscribe to web pages/pdfs/blogs, and convert them to a personal podcast
 - noodling around on the [organ](/noorlander) and piano when it strikes me; currently:
   - [Duruflé - Prélude - Suite Op.5](https://youtu.be/T2Ycf0taCpo)
   - [Duruflé - Prélude et Fugue sur le nom d'Alain](https://youtu.be/FJpG1Qyv6e8)
@@ -17,9 +17,8 @@ What I'm doing [now](https://nownownow.com/about).
 
 ## reading and planned
 
-- many things from [The Transfeminine Review](https://thetransfemininereview.com/2025/12/31/the-2025-tfr-readers-choice-awards/):
-  - [Trans/Rad/Fem](https://thetransfemininereview.com/2025/12/31/the-2025-tfr-readers-choice-awards/#best-transfeminine-nonfiction-trans-rad-fem-by-talia-bhatt)
 - [The Sisters of Dorley](https://alysongreaves.com/the-sisters-of-dorley/)
+- Out of Your Mind - Alan Watts
 
 ## podcasts
 
@@ -27,7 +26,6 @@ What I'm doing [now](https://nownownow.com/about).
 - [5-4](https://www.fivefourpod.com/) supreme court cases by people with opinions
 - [Law and Chaos](https://www.lawandchaospod.com/about) current law happenings
 - [99% Invisible](https://99percentinvisible.org/) the unnoticed architecture and design that shape our world
-- [Signal Hill](https://www.signalhill.fm/) audio documentaries of all kinds
 
 ## finished reading
 
