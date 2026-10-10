@@ -5,9 +5,10 @@ layout: layouts/simple.njk
 
 What I'm doing [now](https://nownownow.com/about).
 
+- recovering from surgery
+- working through [Extensible Query Optimizers in Practice](https://buttondown.com/jaffray/archive/a-review-of-extensible-query-optimizers-in/)
 - playing roller derby with [Boulder County Roller Derby](https://bouldercountyrollerderby.com/)
 - reffing roller derby with the [local](https://www.denverrollerderby.org/) [leagues](https://www.rockymountainrollerderby.org/)
-- working on [an app](/blog-to-podcast/) that can subscribe to web pages/pdfs/blogs, and convert them to a personal podcast
 - noodling around on the [organ](/noorlander) and piano when it strikes me; currently:
   - [Duruflé - Prélude - Suite Op.5](https://youtu.be/T2Ycf0taCpo)
   - [Duruflé - Prélude et Fugue sur le nom d'Alain](https://youtu.be/FJpG1Qyv6e8)
@@ -18,7 +19,8 @@ What I'm doing [now](https://nownownow.com/about).
 ## reading and planned
 
 - [The Sisters of Dorley](https://alysongreaves.com/the-sisters-of-dorley/)
-- Out of Your Mind - Alan Watts
+- [Unbound](https://www.kasiaurbaniak.com/unbound-book)
+- [This Is How You Lose the Time War](https://www.simonandschuster.com/books/This-Is-How-You-Lose-the-Time-War-(Deluxe-Edition)/Amal-El-Mohtar/9781668204160)
 
 ## podcasts
 
